@@ -19,7 +19,7 @@ This project focuses on implementing a game recommendation system based on a dat
 | Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
 | :------------ |:---------------:| :-----| :-----|
 | Deng Yuxuan | A0285746M | Overall system architecture, Fontend and backend Api| e1221558@u.nus.edu |
-| Fu Chentao | A0285737M | Back-end Development, Viedo| e1221549@u.nus.edu.com |
+| Fu Chentao | A0285737M | Back-end Development, Viedo| e1221549@u.nus.edu |
 | Lin Fanzhi | A0285725U | Recommendation based on user description, Database| e1221537@u.nus.edu |
 | Tu Runzhang | A0285767H | Recommendation based on item, Rank Algorithm, Database| e1221579@u.nus.edu |
 
@@ -27,8 +27,9 @@ This project focuses on implementing a game recommendation system based on a dat
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 ### Video1: System Design Video
+[![Movie Recommendation System](Miscellaneous/video1.png)](https://youtu.be/pxEYmFFq3vI)
 ### Video2: Use Case Video;
-
+[![Movie Recommendation System](Miscellaneous/video1.png)](https://youtu.be/pxEYmFFq3vI)
 
 ## SECTION 5 : USER GUIDE
 
