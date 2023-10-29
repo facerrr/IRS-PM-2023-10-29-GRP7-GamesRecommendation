@@ -29,7 +29,7 @@ This project focuses on implementing a game recommendation system based on a dat
 ### Video1: System Design Video
 [![Movie Recommendation System](Miscellaneous/video1.png)](https://youtu.be/pxEYmFFq3vI)
 ### Video2: Use Case Video;
-[![Movie Recommendation System](Miscellaneous/video1.png)](https://youtu.be/pxEYmFFq3vI)
+[![Movie Recommendation System](Miscellaneous/video2.png)](https://youtu.be/snE_70DBvf0)
 
 ## SECTION 5 : USER GUIDE
 
